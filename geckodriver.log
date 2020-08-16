@@ -1,0 +1,2474 @@
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:6445): GLib-GIO-WARNING **: 16:49:16.407: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597524561494	Marionette	INFO	Listening on port 42003
+1597524561535	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/search?client=firefox-b-d&q=192, line 7: Script terminated by timeout at:
+K@https://www.google.com/search?client=firefox-b-d&q=192:7:60
+p@https://www.google.com/search?client=firefox-b-d&q=192:9:805
+
+
+(firefox:6445): GLib-GObject-CRITICAL **: 16:50:40.355: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6445): GLib-GObject-CRITICAL **: 16:50:40.357: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6445): GLib-GObject-CRITICAL **: 16:50:40.358: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6445): GLib-GObject-CRITICAL **: 16:50:40.358: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6445): GLib-GObject-CRITICAL **: 16:50:40.360: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6445): GLib-GObject-CRITICAL **: 16:50:40.687: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6445): GLib-GObject-CRITICAL **: 16:50:40.689: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6445): GLib-GObject-CRITICAL **: 16:50:41.182: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6445): GLib-GObject-CRITICAL **: 16:50:49.668: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6445): GLib-GObject-WARNING **: 16:50:51.310: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f5ff8f17e90' of type 'MaiAtkType139'
+
+(firefox:6445): GLib-GObject-WARNING **: 16:50:51.310: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f5ff8f17ef0' of type 'MaiAtkType139'
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 661"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:661:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:509:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:440:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:407:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2063:69
+addAllSources@resource://devtools/server/actors/thread.js:1446:14
+onSources@resource://devtools/server/actors/thread.js:1452:10
+onPacket@resource://devtools/server/devtools-server-connection.js:379:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 661, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 661: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+
+(firefox:6445): GLib-GObject-CRITICAL **: 16:50:52.368: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6445): GLib-GObject-CRITICAL **: 16:50:52.369: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:7155): GLib-GIO-WARNING **: 16:52:44.538: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597524769299	Marionette	INFO	Listening on port 37177
+1597524769352	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 661"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:661:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:509:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:440:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:407:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2063:69
+addAllSources@resource://devtools/server/actors/thread.js:1446:14
+onSources@resource://devtools/server/actors/thread.js:1452:10
+onPacket@resource://devtools/server/devtools-server-connection.js:379:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 661, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 661: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+1597524861480	Marionette	INFO	Stopped listening on port 42003
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:7717): GLib-GIO-WARNING **: 16:54:23.844: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597524868724	Marionette	INFO	Listening on port 36499
+1597524868847	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:8084): GLib-GIO-WARNING **: 16:55:49.647: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597524954875	Marionette	INFO	Listening on port 42553
+1597524954905	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:8654): GLib-GIO-WARNING **: 16:58:38.607: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597525125715	Marionette	INFO	Listening on port 40733
+1597525125819	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597525178615	Marionette	INFO	Stopped listening on port 37177
+1597525179312	Marionette	INFO	Stopped listening on port 36499
+1597525180289	Marionette	INFO	Stopped listening on port 42553
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:9232): GLib-GIO-WARNING **: 16:59:43.924: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597525183954	Marionette	INFO	Stopped listening on port 40733
+1597525188000	Marionette	INFO	Listening on port 41623
+1597525188096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%2Clib%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-router%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cjquery.client%2Ccookie%2CmakeCollapsible%2Ctablesorter%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%2Cviewport%7Cmediawiki.editfont.styles%7Cmediawiki.language.months%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui-widgets.icons%7Coojs-ui.styles.indicators%7Cskins.vector.legacy.js%7Cuser.defaults&skin=vector&version=1mv9v, line 154: Script terminated by timeout at:
+jQuery.fn.extend@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%2Clib%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-router%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cjquery.client%2Ccookie%2CmakeCollapsible%2Ctablesorter%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%2Cviewport%7Cmediawiki.editfont.styles%7Cmediawiki.language.months%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui-widgets.icons%7Coojs-ui.styles.indicators%7Cskins.vector.legacy.js%7Cuser.defaults&skin=vector&version=1mv9v:154:865
+simulate@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%2Clib%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-router%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cjquery.client%2Ccookie%2CmakeCollapsible%2Ctablesorter%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%2Cviewport%7Cmediawiki.editfont.styles%7Cmediawiki.language.months%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui-widgets.icons%7Coojs-ui.styles.indicators%7Cskins.vector.legacy.js%7Cuser.defaults&skin=vector&version=1mv9v:267:387
+handler@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%2Clib%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-router%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cjquery.client%2Ccookie%2CmakeCollapsible%2Ctablesorter%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%2Cviewport%7Cmediawiki.editfont.styles%7Cmediawiki.language.months%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui-widgets.icons%7Coojs-ui.styles.indicators%7Cskins.vector.legacy.js%7Cuser.defaults&skin=vector&version=1mv9v:267:843
+
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1967: TypeError: currentPanel is undefined
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:9979): GLib-GIO-WARNING **: 17:05:56.965: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597525558708	Marionette	INFO	Stopped listening on port 41623
+1597525562394	Marionette	INFO	Listening on port 37453
+1597525562447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1967: TypeError: currentPanel is undefined
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:10290): GLib-GIO-WARNING **: 17:07:37.949: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597525662270	Marionette	INFO	Listening on port 33513
+1597525662404	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597525664514	Marionette	INFO	Stopped listening on port 37453
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:10620): GLib-GIO-WARNING **: 17:09:32.339: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597525774389	Marionette	INFO	Stopped listening on port 33513
+1597525780217	Marionette	INFO	Listening on port 38047
+1597525780297	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:11011): GLib-GIO-WARNING **: 17:11:53.461: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597525917378	Marionette	INFO	Listening on port 35689
+1597525917426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597525954532	Marionette	INFO	Stopped listening on port 38047
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:11256): GLib-GIO-WARNING **: 17:12:38.002: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597525960502	Marionette	INFO	Stopped listening on port 35689
+1597525962747	Marionette	INFO	Listening on port 33823
+1597525962800	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:11780): GLib-GIO-WARNING **: 17:14:40.034: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1597526083797	Marionette	INFO	Stopped listening on port 33823
+1597526086061	Marionette	INFO	Listening on port 37017
+1597526086123	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:12152): GLib-GIO-WARNING **: 17:17:16.498: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597526238796	Marionette	INFO	Stopped listening on port 37017
+1597526244542	Marionette	INFO	Listening on port 37877
+1597526244659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1967: TypeError: currentPanel is undefined
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101, line 6: Script terminated by timeout at:
+Tg@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:59175
+ig@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:61895
+jg.prototype.a@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:52701
+Vf/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:47338
+x@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:3128
+Vf@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:47311
+Qg/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:61136
+x@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:3128
+Qg@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:61045
+Og@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:57783
+Lg.prototype.zb@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:57410
+Ie/a.a<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:33046
+Rd/</<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:25989
+Od/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:25528
+yd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:22974
+Od@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:25836
+Rd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:25962
+yd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:22974
+yd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:23018
+
+JavaScript warning: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020080501.js, line 6: Script terminated by timeout at:
+Gv@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020080501.js:6:196274
+Dv@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020080501.js:6:196636
+av/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020080501.js:6:195046
+av@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020080501.js:6:195024
+Qu@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020080501.js:6:183061
+Su@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020080501.js:6:180474
+jy@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020080501.js:6:245423
+gy@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020080501.js:6:245346
+hy/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020080501.js:6:244522
+H/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020080501.js:6:81658
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:12989): GLib-GIO-WARNING **: 17:23:51.137: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597526633488	Marionette	INFO	Stopped listening on port 37877
+1597526636364	Marionette	INFO	Listening on port 43315
+1597526636463	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:13437): GLib-GIO-WARNING **: 17:24:23.531: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597526666360	Marionette	INFO	Stopped listening on port 43315
+1597526669651	Marionette	INFO	Listening on port 42315
+1597526669694	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597526675026	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:13671): GLib-GIO-WARNING **: 17:25:15.531: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597526719948	Marionette	INFO	Listening on port 37123
+1597526720052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597526723781	Marionette	INFO	Stopped listening on port 42315
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:14001): GLib-GIO-WARNING **: 17:26:59.431: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597526821787	Marionette	INFO	Stopped listening on port 37123
+1597526825378	Marionette	INFO	Listening on port 39623
+1597526825414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597526830740	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:14260): GLib-GIO-WARNING **: 17:27:55.978: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597526877996	Marionette	INFO	Stopped listening on port 39623
+1597526881256	Marionette	INFO	Listening on port 46175
+1597526881318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597526886586	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:14563): GLib-GIO-WARNING **: 17:29:20.568: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597526962608	Marionette	INFO	Stopped listening on port 46175
+1597526965767	Marionette	INFO	Listening on port 46433
+1597526965897	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597526971187	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:14796): GLib-GIO-WARNING **: 17:30:01.208: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597527006671	Marionette	INFO	Listening on port 41473
+1597527006747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597527006786	Marionette	INFO	Stopped listening on port 46433
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1967: TypeError: currentPanel is undefined
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:15101): GLib-GIO-WARNING **: 17:31:29.395: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597527093350	Marionette	INFO	Listening on port 37679
+1597527093407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597527121394	Marionette	INFO	Stopped listening on port 41473
+1597527127397	Marionette	INFO	Stopped listening on port 37679
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:15421): GLib-GIO-WARNING **: 17:32:20.306: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597527145115	Marionette	INFO	Listening on port 34943
+1597527145228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597527150474	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:15703): GLib-GIO-WARNING **: 17:33:58.931: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597527244450	Marionette	INFO	Stopped listening on port 34943
+1597527244951	Marionette	INFO	Listening on port 45845
+1597527245254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597527250556	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:15966): GLib-GIO-WARNING **: 17:34:47.492: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597527289903	Marionette	INFO	Stopped listening on port 45845
+1597527292857	Marionette	INFO	Listening on port 37721
+1597527292941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1967: TypeError: currentPanel is undefined
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:16251): GLib-GIO-WARNING **: 17:36:13.814: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597527378359	Marionette	INFO	Listening on port 45357
+1597527378590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597527384818	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:16861): GLib-GIO-WARNING **: 17:37:46.280: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597527472005	Marionette	INFO	Listening on port 42383
+1597527472070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597527477360	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:17425): GLib-GIO-WARNING **: 17:40:13.885: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597527617791	Marionette	INFO	Listening on port 46819
+1597527617823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597527623013	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:17777): GLib-GIO-WARNING **: 17:41:10.089: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597527676792	Marionette	INFO	Listening on port 35609
+1597527676896	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+1597527682254	Marionette	INFO	Stopped listening on port 37721
+1597527684461	Marionette	INFO	Stopped listening on port 45357
+1597527684856	Marionette	INFO	Stopped listening on port 42383
+1597527686067	Marionette	INFO	Stopped listening on port 46819
+1597527686500	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1967: TypeError: currentPanel is undefined
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2245))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:18419): GLib-GIO-WARNING **: 17:44:24.792: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597527870494	Marionette	INFO	Listening on port 36049
+1597527870557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597527876557	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:18879): GLib-GIO-WARNING **: 17:46:49.506: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597528013362	Marionette	INFO	Listening on port 41571
+1597528013452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597528051128	Marionette	INFO	Stopped listening on port 35609
+1597528052207	Marionette	INFO	Stopped listening on port 36049
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:19399): GLib-GIO-WARNING **: 17:47:39.278: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597528059621	Marionette	INFO	Stopped listening on port 41571
+1597528065807	Marionette	INFO	Listening on port 38083
+1597528065888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597528071477	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1967: TypeError: currentPanel is undefined
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:19705): GLib-GIO-WARNING **: 17:48:57.569: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597528143234	Marionette	INFO	Listening on port 34193
+1597528143288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597528147114	Marionette	INFO	Stopped listening on port 34193
+1597528148698	Marionette	INFO	Stopped listening on port 38083
+
+(firefox:20121): GLib-GIO-WARNING **: 17:49:21.402: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597528165376	Marionette	INFO	Listening on port 38785
+1597528165436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597528170836	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:20478): GLib-GIO-WARNING **: 17:50:11.845: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597528214135	Marionette	INFO	Stopped listening on port 38785
+1597528216813	Marionette	INFO	Listening on port 38223
+1597528216907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597528222225	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:20790): GLib-GIO-WARNING **: 17:51:54.138: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597528315456	Marionette	INFO	Stopped listening on port 38223
+1597528318499	Marionette	INFO	Listening on port 37977
+1597528318605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597528323962	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:21024): GLib-GIO-WARNING **: 17:52:45.223: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597528366742	Marionette	INFO	Stopped listening on port 37977
+1597528369900	Marionette	INFO	Listening on port 36281
+1597528369974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1967: TypeError: currentPanel is undefined
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:21615): GLib-GIO-WARNING **: 17:56:55.517: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597528620075	Marionette	INFO	Stopped listening on port 36281
+1597528620791	Marionette	INFO	Listening on port 44083
+1597528620916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597528626308	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:21965): GLib-GIO-WARNING **: 17:59:39.481: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597528782541	Marionette	INFO	Stopped listening on port 44083
+1597528784533	Marionette	INFO	Listening on port 34921
+1597528784599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597528790053	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:22216): GLib-GIO-WARNING **: 18:00:22.319: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597528826855	Marionette	INFO	Stopped listening on port 34921
+1597528827942	Marionette	INFO	Listening on port 39423
+1597528828033	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:22677): GLib-GIO-WARNING **: 18:01:35.870: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597528900699	Marionette	INFO	Listening on port 43673
+1597528900761	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:22922): GLib-GIO-WARNING **: 18:02:30.477: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597528954258	Marionette	INFO	Listening on port 44301
+1597528954323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597528959586	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:23381): GLib-GIO-WARNING **: 18:04:55.133: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597529098906	Marionette	INFO	Listening on port 35565
+1597529098939	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.254"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:23752): GLib-GIO-WARNING **: 18:07:19.050: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597529242808	Marionette	INFO	Listening on port 40943
+1597529242886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597529248328	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+
+(firefox:23752): GLib-GObject-CRITICAL **: 18:07:47.432: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23752): GLib-GObject-CRITICAL **: 18:07:47.433: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23752): GLib-GObject-CRITICAL **: 18:07:47.433: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23752): GLib-GObject-CRITICAL **: 18:07:47.433: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23752): GLib-GObject-CRITICAL **: 18:07:47.433: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23752): GLib-GObject-CRITICAL **: 18:07:47.434: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23752): GLib-GObject-CRITICAL **: 18:07:47.435: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23752): GLib-GObject-CRITICAL **: 18:07:47.574: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23752): GLib-GObject-CRITICAL **: 18:07:48.075: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23752): GLib-GObject-WARNING **: 18:07:56.436: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7ff3a157bb30' of type 'MaiAtkType139'
+
+(firefox:23752): GLib-GObject-WARNING **: 18:07:56.438: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7ff3a157b170' of type 'MaiAtkType139'
+
+(firefox:23752): GLib-GObject-CRITICAL **: 18:07:57.020: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23752): GLib-GObject-CRITICAL **: 18:07:57.157: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:24071): GLib-GIO-WARNING **: 18:08:43.765: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597529327517	Marionette	INFO	Listening on port 41991
+1597529327587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597529333396	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:24538): GLib-GIO-WARNING **: 18:09:55.107: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597529399025	Marionette	INFO	Listening on port 40047
+1597529399137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597529404625	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1967: TypeError: currentPanel is undefined
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:24905): GLib-GIO-WARNING **: 18:10:53.850: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597529457481	Marionette	INFO	Listening on port 45511
+1597529457551	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:25599): GLib-GIO-WARNING **: 18:13:17.318: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597529601377	Marionette	INFO	Listening on port 43537
+1597529601486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597529606876	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:26538): GLib-GIO-WARNING **: 18:15:48.257: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597529752066	Marionette	INFO	Listening on port 41409
+1597529752142	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597529757684	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1967: TypeError: currentPanel is undefined
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:27481): GLib-GIO-WARNING **: 18:18:19.296: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597529903531	Marionette	INFO	Listening on port 45125
+1597529903635	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:32157): GLib-GIO-WARNING **: 18:31:37.584: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597530701992	Marionette	INFO	Listening on port 46853
+1597530702080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597530708027	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597532354405	Marionette	INFO	Stopped listening on port 41409
+1597532610827	Marionette	INFO	Stopped listening on port 43537
+1597532618838	Marionette	INFO	Stopped listening on port 45511
+1597532623364	Marionette	INFO	Stopped listening on port 40047
+1597532626039	Marionette	INFO	Stopped listening on port 41991
+1597532627250	Marionette	INFO	Stopped listening on port 40943
+1597532632629	Marionette	INFO	Stopped listening on port 35565
+1597532633514	Marionette	INFO	Stopped listening on port 45125
+1597532634123	Marionette	INFO	Stopped listening on port 46853
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:34506): GLib-GIO-WARNING **: 19:05:01.770: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597532705506	Marionette	INFO	Listening on port 37375
+1597532705614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.s.es_419.i8Rnd359hvs.O/ck=xjs.s.ROmxfTdCP7c.L.F4.O/am=AAAAAAAQAAAAsATM3QDg-A8CAFxQ4gAAAACQAC0JNhZIISQkBCAAAACYhQkCgAI/d=1/exm=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe/ed=1/dg=2/ct=zgms/rs=ACT90oHmjVtc7Wfp4gzBNmuWQ8IaxNs7Rg/m=F8FRnd,MB3mMb,MkHyGd,NBZ7u,OG6ZHd,RMhBfe,RqxLvf,T7XTS,TxZWcc,URQPYc,XMgU6d,XjCeUc,aCZVp,aa,aam1T,abd,async,bgd,dvl,eN4qad,eT9j9d,foot,iD8Yk,kJFpDf,kyn,lu,m,m6a0l,mUpTid,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sQAo4b,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xiqEse,xz7cCd,zbML3c?xjs=s1, line 315: Script terminated by timeout at:
+s_P5f.prototype.ka@https://www.google.com/xjs/_/js/k=xjs.s.es_419.i8Rnd359hvs.O/ck=xjs.s.ROmxfTdCP7c.L.F4.O/am=AAAAAAAQAAAAsATM3QDg-A8CAFxQ4gAAAACQAC0JNhZIISQkBCAAAACYhQkCgAI/d=1/exm=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe/ed=1/dg=2/ct=zgms/rs=ACT90oHmjVtc7Wfp4gzBNmuWQ8IaxNs7Rg/m=F8FRnd,MB3mMb,MkHyGd,NBZ7u,OG6ZHd,RMhBfe,RqxLvf,T7XTS,TxZWcc,URQPYc,XMgU6d,XjCeUc,aCZVp,aa,aam1T,abd,async,bgd,dvl,eN4qad,eT9j9d,foot,iD8Yk,kJFpDf,kyn,lu,m,m6a0l,mUpTid,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sQAo4b,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xiqEse,xz7cCd,zbML3c?xjs=s1:315:256
+s_o5f@https://www.google.com/xjs/_/js/k=xjs.s.es_419.i8Rnd359hvs.O/ck=xjs.s.ROmxfTdCP7c.L.F4.O/am=AAAAAAAQAAAAsATM3QDg-A8CAFxQ4gAAAACQAC0JNhZIISQkBCAAAACYhQkCgAI/d=1/exm=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe/ed=1/dg=2/ct=zgms/rs=ACT90oHmjVtc7Wfp4gzBNmuWQ8IaxNs7Rg/m=F8FRnd,MB3mMb,MkHyGd,NBZ7u,OG6ZHd,RMhBfe,RqxLvf,T7XTS,TxZWcc,URQPYc,XMgU6d,XjCeUc,aCZVp,aa,aam1T,abd,async,bgd,dvl,eN4qad,eT9j9d,foot,iD8Yk,kJFpDf,kyn,lu,m,m6a0l,mUpTid,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sQAo4b,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xiqEse,xz7cCd,zbML3c?xjs=s1:259:228
+s_cQ.prototype.log@https://www.google.com/xjs/_/js/k=xjs.s.es_419.i8Rnd359hvs.O/ck=xjs.s.ROmxfTdCP7c.L.F4.O/am=AAAAAAAQAAAAsATM3QDg-A8CAFxQ4gAAAACQAC0JNhZIISQkBCAAAACYhQkCgAI/d=1/exm=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe/ed=1/dg=2/ct=zgms/rs=ACT90oHmjVtc7Wfp4gzBNmuWQ8IaxNs7Rg/m=F8FRnd,MB3mMb,MkHyGd,NBZ7u,OG6ZHd,RMhBfe,RqxLvf,T7XTS,TxZWcc,URQPYc,XMgU6d,XjCeUc,aCZVp,aa,aam1T,abd,async,bgd,dvl,eN4qad,eT9j9d,foot,iD8Yk,kJFpDf,kyn,lu,m,m6a0l,mUpTid,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sQAo4b,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xiqEse,xz7cCd,zbML3c?xjs=s1:270:255
+s_05f@https://www.google.com/xjs/_/js/k=xjs.s.es_419.i8Rnd359hvs.O/ck=xjs.s.ROmxfTdCP7c.L.F4.O/am=AAAAAAAQAAAAsATM3QDg-A8CAFxQ4gAAAACQAC0JNhZIISQkBCAAAACYhQkCgAI/d=1/exm=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe/ed=1/dg=2/ct=zgms/rs=ACT90oHmjVtc7Wfp4gzBNmuWQ8IaxNs7Rg/m=F8FRnd,MB3mMb,MkHyGd,NBZ7u,OG6ZHd,RMhBfe,RqxLvf,T7XTS,TxZWcc,URQPYc,XMgU6d,XjCeUc,aCZVp,aa,aam1T,abd,async,bgd,dvl,eN4qad,eT9j9d,foot,iD8Yk,kJFpDf,kyn,lu,m,m6a0l,mUpTid,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sQAo4b,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xiqEse,xz7cCd,zbML3c?xjs=s1:323:307
+s_eQ.prototype.Ba@https://www.google.com/xjs/_/js/k=xjs.s.es_419.i8Rnd359hvs.O/ck=xjs.s.ROmxfTdCP7c.L.F4.O/am=AAAAAAAQAAAAsATM3QDg-A8CAFxQ4gAAAACQAC0JNhZIISQkBCAAAACYhQkCgAI/d=1/exm=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe/ed=1/dg=2/ct=zgms/rs=ACT90oHmjVtc7Wfp4gzBNmuWQ8IaxNs7Rg/m=F8FRnd,MB3mMb,MkHyGd,NBZ7u,OG6ZHd,RMhBfe,RqxLvf,T7XTS,TxZWcc,URQPYc,XMgU6d,XjCeUc,aCZVp,aa,aam1T,abd,async,bgd,dvl,eN4qad,eT9j9d,foot,iD8Yk,kJFpDf,kyn,lu,m,m6a0l,mUpTid,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sQAo4b,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xiqEse,xz7cCd,zbML3c?xjs=s1:322:184
+s_3ha@https://www.google.com/xjs/_/js/k=xjs.s.es_419.i8Rnd359hvs.O/ck=xjs.s.ROmxfTdCP7c.L.F4.O/m=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,d,csi/am=AAAAAAAQAAAAsATM3QDg-A8CAFxQ4gAAAACQAC0JNhZIISQkBCAAAACYhQkCgAI/d=1/dg=2/ct=zgms/rs=ACT90oHmjVtc7Wfp4gzBNmuWQ8IaxNs7Rg:285:254
+s_1ha@https://www.google.com/xjs/_/js/k=xjs.s.es_419.i8Rnd359hvs.O/ck=xjs.s.ROmxfTdCP7c.L.F4.O/m=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,d,csi/am=AAAAAAAQAAAAsATM3QDg-A8CAFxQ4gAAAACQAC0JNhZIISQkBCAAAACYhQkCgAI/d=1/dg=2/ct=zgms/rs=ACT90oHmjVtc7Wfp4gzBNmuWQ8IaxNs7Rg:286:249
+s__ha/b<@https://www.google.com/xjs/_/js/k=xjs.s.es_419.i8Rnd359hvs.O/ck=xjs.s.ROmxfTdCP7c.L.F4.O/m=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,d,csi/am=AAAAAAAQAAAAsATM3QDg-A8CAFxQ4gAAAACQAC0JNhZIISQkBCAAAACYhQkCgAI/d=1/dg=2/ct=zgms/rs=ACT90oHmjVtc7Wfp4gzBNmuWQ8IaxNs7Rg:282:277
+
+[Child 34852, MediaDecoderStateMachine #1] WARNING: Decoder=7f9d6ef60800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-79.0/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 34852, MediaDecoderStateMachine #1] WARNING: Decoder=7f9d6ef60800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-79.0/dom/media/MediaDecoderStateMachine.cpp, line 3470
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:35784): GLib-GIO-WARNING **: 19:15:07.009: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597533310683	Marionette	INFO	Listening on port 43919
+1597533310780	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:36878): GLib-GIO-WARNING **: 19:21:20.691: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597533684631	Marionette	INFO	Listening on port 38563
+1597533684668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597533690445	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:38062): GLib-GIO-WARNING **: 19:26:22.855: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597533986704	Marionette	INFO	Listening on port 45807
+1597533986769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597533992376	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597534013704	Marionette	INFO	Stopped listening on port 45807
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:38697): GLib-GIO-WARNING **: 19:28:06.049: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597534089984	Marionette	INFO	Listening on port 42639
+1597534090053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1967: TypeError: currentPanel is undefined
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:39434): GLib-GIO-WARNING **: 19:29:52.156: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597534196036	Marionette	INFO	Listening on port 34243
+1597534196134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597534201622	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:41239): GLib-GIO-WARNING **: 19:35:38.226: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597534542526	Marionette	INFO	Listening on port 35131
+1597534542617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597534548224	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914, line 6: Script terminated by timeout at:
+Ma@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:4630
+Kc@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:16477
+xg@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:54265
+Wf@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:57405
+Xf.prototype.a@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:49425
+Jf/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:45166
+v@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:3026
+Jf@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:45139
+vg/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:56741
+v@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:3026
+vg@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:56648
+tg@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:53696
+qg.prototype.tb@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:53364
+Fe/a.a<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:32692
+Od/</<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25468
+Ld/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25007
+ud/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:22367
+Ld@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25315
+Od/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25441
+ud/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:22367
+ud/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:22412
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:44992): GLib-GIO-WARNING **: 19:56:25.181: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597535789903	Marionette	INFO	Listening on port 39239
+1597535790002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597535796191	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597535852062	Marionette	INFO	Stopped listening on port 37375
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1597535864160	Marionette	INFO	Stopped listening on port 34243
+1597535868242	Marionette	INFO	Stopped listening on port 42639
+1597535870179	Marionette	INFO	Stopped listening on port 35131
+1597535871178	Marionette	INFO	Stopped listening on port 39239
+1597535874974	Marionette	INFO	Stopped listening on port 38563
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101, line 6: Script terminated by timeout at:
+Mf@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:44582
+Nf@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:44689
+Rf@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:45476
+l.Qa@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:48496
+Af@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:42085
+Og@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:57682
+Lg.prototype.zb@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:57410
+Ie/a.a<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:33046
+Rd/</<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:25989
+Od/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:25528
+yd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:22974
+Od@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:25836
+Rd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:25962
+yd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:22974
+yd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:23018
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2245))
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: container.flashMutation is not a function
+Full stack: _flashMutatedNodes@resource://devtools/client/inspector/markup/markup.js:1541:17
+_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1469:12
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+walkerLoop@resource://gre/modules/Promise-backend.js:838:12
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+completePromise@resource://gre/modules/Promise-backend.js:741:12
+checkForCompletion@resource://gre/modules/Promise-backend.js:596:16
+resolver@resource://gre/modules/Promise-backend.js:603:47
+
+*************************
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: container.editor is undefined
+Full stack: showNode/<@resource://devtools/client/inspector/markup/markup.js:1571:9
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+walkerLoop@resource://gre/modules/Promise-backend.js:838:12
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+completePromise@resource://gre/modules/Promise-backend.js:741:12
+checkForCompletion@resource://gre/modules/Promise-backend.js:596:16
+resolver@resource://gre/modules/Promise-backend.js:603:47
+
+*************************
+console.error: (new TypeError("container.editor is undefined", "resource://devtools/client/inspector/markup/markup.js", 1571))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:46194): GLib-GIO-WARNING **: 20:02:44.847: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597536170192	Marionette	INFO	Listening on port 45589
+1597536170232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597536175756	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1967: TypeError: currentPanel is undefined
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:47101): GLib-GIO-WARNING **: 20:07:07.110: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597536434230	Marionette	INFO	Listening on port 38821
+1597536434316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597536439712	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:47584): GLib-GIO-WARNING **: 20:09:01.604: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597536547313	Marionette	INFO	Listening on port 35209
+1597536547438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597536553664	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:48081): GLib-GIO-WARNING **: 20:10:38.727: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597536642622	Marionette	INFO	Listening on port 43971
+1597536642671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597536648199	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597536659573	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1967: TypeError: currentPanel is undefined
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:48772): GLib-GIO-WARNING **: 20:12:23.834: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597536748030	Marionette	INFO	Listening on port 32833
+1597536748066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597536753640	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597536765011	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:49424): GLib-GIO-WARNING **: 20:13:58.209: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597536843430	Marionette	INFO	Listening on port 44125
+1597536843473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597536848984	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597536860355	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1967: TypeError: currentPanel is undefined
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:50799): GLib-GIO-WARNING **: 20:17:08.554: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597537034392	Marionette	INFO	Listening on port 40975
+1597537034460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597537040125	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597537051509	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1597537080073	Marionette	INFO	Stopped listening on port 43919
+1597537083136	Marionette	INFO	Stopped listening on port 45589
+1597537084429	Marionette	INFO	Stopped listening on port 38821
+1597537085137	Marionette	INFO	Stopped listening on port 35209
+1597537085909	Marionette	INFO	Stopped listening on port 43971
+1597537086874	Marionette	INFO	Stopped listening on port 32833
+1597537088001	Marionette	INFO	Stopped listening on port 44125
+1597537089159	Marionette	INFO	Stopped listening on port 40975
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:51465): GLib-GIO-WARNING **: 20:18:16.854: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597537100529	Marionette	INFO	Listening on port 35895
+1597537100599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597537105921	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597537117306	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1597537118414	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1967: TypeError: currentPanel is undefined
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:51792): GLib-GIO-WARNING **: 20:20:22.787: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597537226261	Marionette	INFO	Listening on port 34991
+1597537226325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597537231650	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597537243022	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1597537244123	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1597537244343	Marionette	INFO	Stopped listening on port 34991
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:52051): GLib-GIO-WARNING **: 20:21:25.591: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597537289339	Marionette	INFO	Listening on port 33431
+1597537289379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597537294575	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597537305949	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:52565): GLib-GIO-WARNING **: 20:24:01.760: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597537447129	Marionette	INFO	Listening on port 38129
+1597537447180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597537452487	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597537463826	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1597537464922	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1597537465653	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1597537466395	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1597537466617	Marionette	INFO	Stopped listening on port 38129
+1597538124201	Marionette	INFO	Stopped listening on port 35895
+1597538126060	Marionette	INFO	Stopped listening on port 33431
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:53831): GLib-GIO-WARNING **: 20:35:48.541: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597538152385	Marionette	INFO	Listening on port 44395
+1597538152425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597538157901	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597538169253	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:54387): GLib-GIO-WARNING **: 20:41:35.229: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597538499227	Marionette	INFO	Listening on port 40439
+1597538499282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597538517660	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:54947): GLib-GIO-WARNING **: 20:43:17.557: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597538601382	Marionette	INFO	Listening on port 43007
+1597538601477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597538608215	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597538619578	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1597538620667	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:55352): GLib-GIO-WARNING **: 20:44:53.113: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597538696729	Marionette	INFO	Listening on port 36855
+1597538696767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597538702234	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597538713612	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:56175): GLib-GIO-WARNING **: 20:48:12.185: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597538896621	Marionette	INFO	Listening on port 40181
+1597538896697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597538902149	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597538913526	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:864:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:639:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+JavaScript warning: https://code.createjs.com/1.0.0/createjs.min.js, line 14: Script terminated by timeout at:
+c._resolveState@https://code.createjs.com/1.0.0/createjs.min.js:14:29616
+b.setPosition@https://code.createjs.com/1.0.0/createjs.min.js:19:1503
+c._updateTimeline@https://code.createjs.com/1.0.0/createjs.min.js:14:29260
+c.advance@https://code.createjs.com/1.0.0/createjs.min.js:14:28504
+c._tick@https://code.createjs.com/1.0.0/createjs.min.js:14:28796
+b._tick@https://code.createjs.com/1.0.0/createjs.min.js:13:11081
+c._tick@https://code.createjs.com/1.0.0/createjs.min.js:14:28821
+b._tick@https://code.createjs.com/1.0.0/createjs.min.js:13:11081
+c._tick@https://code.createjs.com/1.0.0/createjs.min.js:14:28821
+b._tick@https://code.createjs.com/1.0.0/createjs.min.js:13:11081
+c._tick@https://code.createjs.com/1.0.0/createjs.min.js:14:28821
+b._tick@https://code.createjs.com/1.0.0/createjs.min.js:13:11081
+b.tick@https://code.createjs.com/1.0.0/createjs.min.js:13:14742
+b.update@https://code.createjs.com/1.0.0/createjs.min.js:13:14088
+b.handleEvent@https://code.createjs.com/1.0.0/createjs.min.js:13:14830
+b._dispatchEvent@https://code.createjs.com/1.0.0/createjs.min.js:12:4075
+b._dispatchEvent@https://code.createjs.com/1.0.0/createjs.min.js:12:4158
+b.dispatchEvent@https://code.createjs.com/1.0.0/createjs.min.js:12:3479
+a._tick@https://code.createjs.com/1.0.0/createjs.min.js:12:7459
+a._handleTimeout@https://code.createjs.com/1.0.0/createjs.min.js:12:6772
+
+JavaScript error: https://chercher.tech/vendor/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://chercher.tech/js/index9.js, line 39: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://chercher.tech/js/index9.js, line 10: TypeError: document.getElementById(...) is null
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:57757): GLib-GIO-WARNING **: 20:52:47.518: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597539179812	Marionette	INFO	Listening on port 46593
+1597539179896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597539197290	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1597539238780	Marionette	INFO	Stopped listening on port 44395
+1597539239729	Marionette	INFO	Stopped listening on port 40439
+1597539240618	Marionette	INFO	Stopped listening on port 43007
+1597539241758	Marionette	INFO	Stopped listening on port 36855
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:58843): GLib-GIO-WARNING **: 20:55:55.383: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597539360860	Marionette	INFO	Listening on port 36689
+1597539360905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597539366979	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597539378436	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:59227): GLib-GIO-WARNING **: 20:57:01.785: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597539427405	Marionette	INFO	Listening on port 38007
+1597539427501	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597539433796	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597539445359	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:59951): GLib-GIO-WARNING **: 20:58:22.115: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1597539506783	Marionette	INFO	Listening on port 37331
+1597539506869	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:60738): GLib-GIO-WARNING **: 20:59:52.281: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597539597832	Marionette	INFO	Listening on port 38671
+1597539597917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597539615998	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:63426): GLib-GIO-WARNING **: 21:07:48.623: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597540074711	Marionette	INFO	Listening on port 42617
+1597540074803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597540082016	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:64234): GLib-GIO-WARNING **: 21:09:37.989: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597540184694	Marionette	INFO	Listening on port 43341
+1597540185043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597540192288	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:64945): GLib-GIO-WARNING **: 21:11:11.322: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597540277311	Marionette	INFO	Listening on port 43679
+1597540277579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597540284932	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597540296464	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[Child 65159, MediaDecoderStateMachine #1] WARNING: Decoder=7f46aa892000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-79.0/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 65159, MediaDecoderStateMachine #1] WARNING: Decoder=7f46aa892000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-79.0/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 65159, MediaDecoderStateMachine #1] WARNING: Decoder=7f46aa892000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox/src/firefox-79.0/dom/media/MediaDecoderStateMachine.cpp, line 3470
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:68528): GLib-GIO-WARNING **: 21:19:31.379: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597540778531	Marionette	INFO	Listening on port 38705
+1597540778620	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597540786404	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:69233): GLib-GIO-WARNING **: 21:20:34.377: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597540840745	Marionette	INFO	Listening on port 35083
+1597540841056	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:70524): GLib-GIO-WARNING **: 21:22:28.228: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597540954901	Marionette	INFO	Listening on port 40013
+1597540954992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597540962035	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:72079): GLib-GIO-WARNING **: 21:25:09.652: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597541117228	Marionette	INFO	Listening on port 46549
+1597541117333	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597541124793	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:75797): GLib-GIO-WARNING **: 21:30:54.667: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597541462125	Marionette	INFO	Listening on port 33679
+1597541462271	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1597541510651	Marionette	INFO	Stopped listening on port 40181
+1597541511566	Marionette	INFO	Stopped listening on port 46593
+1597541512394	Marionette	INFO	Stopped listening on port 36689
+1597541519506	Marionette	INFO	Stopped listening on port 38007
+1597541520710	Marionette	INFO	Stopped listening on port 37331
+1597541521925	Marionette	INFO	Stopped listening on port 38671
+1597541522843	Marionette	INFO	Stopped listening on port 42617
+1597541523837	Marionette	INFO	Stopped listening on port 43341
+1597541525687	Marionette	INFO	Stopped listening on port 38705
+1597541526676	Marionette	INFO	Stopped listening on port 35083
+1597541527397	Marionette	INFO	Stopped listening on port 40013
+1597541528990	Marionette	INFO	Stopped listening on port 46549
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:77154): GLib-GIO-WARNING **: 21:33:15.447: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597541599419	Marionette	INFO	Listening on port 39679
+1597541599460	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:77549): GLib-GIO-WARNING **: 21:34:28.591: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597541672459	Marionette	INFO	Listening on port 43781
+1597541672553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597541678176	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:77989): GLib-GIO-WARNING **: 21:35:37.420: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597541741768	Marionette	INFO	Listening on port 45839
+1597541741836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597541747354	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:79069): GLib-GIO-WARNING **: 21:39:14.488: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597541958023	Marionette	INFO	Listening on port 32885
+1597541958082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597541964098	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+
+(firefox:79556): GLib-GIO-WARNING **: 21:40:13.516: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597542017515	Marionette	INFO	Listening on port 34749
+1597542017608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597542031290	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:80568): GLib-GIO-WARNING **: 21:42:36.705: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597542160846	Marionette	INFO	Listening on port 45319
+1597542160880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597542166575	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:81441): GLib-GIO-WARNING **: 21:44:23.815: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597542268026	Marionette	INFO	Listening on port 38721
+1597542268130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597542273699	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.1.254"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:90739): GLib-GIO-WARNING **: 22:06:42.966: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597543606834	Marionette	INFO	Listening on port 45169
+1597543606913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597543612412	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:93399): GLib-GIO-WARNING **: 22:12:16.621: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597543940386	Marionette	INFO	Listening on port 46723
+1597543940470	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:94130): GLib-GIO-WARNING **: 22:13:22.617: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597544006694	Marionette	INFO	Listening on port 41125
+1597544006812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597544012569	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597544018108	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1967: TypeError: currentPanel is undefined
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:94957): GLib-GIO-WARNING **: 22:14:40.622: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597544086740	Marionette	INFO	Listening on port 42593
+1597544086819	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597544093489	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:98970): GLib-GIO-WARNING **: 22:21:40.990: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597544505330	Marionette	INFO	Listening on port 35345
+1597544505394	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1597544511042	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:100538): GLib-GIO-WARNING **: 22:23:51.719: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597544636404	Marionette	INFO	Listening on port 41479
+1597544636475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597544643010	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:101406): GLib-GIO-WARNING **: 22:24:42.459: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597544687275	Marionette	INFO	Listening on port 33013
+1597544687369	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597544700465	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:102783): GLib-GIO-WARNING **: 22:26:18.368: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597544784306	Marionette	INFO	Listening on port 44621
+1597544784448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597544790484	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597544846383	Marionette	INFO	Stopped listening on port 44621
+1597544850727	Marionette	INFO	Stopped listening on port 33013
+1597544860385	Marionette	INFO	Stopped listening on port 41125
+1597544861631	Marionette	INFO	Stopped listening on port 32885
+1597544863691	Marionette	INFO	Stopped listening on port 43679
+1597544872835	Marionette	INFO	Stopped listening on port 41479
+1597544874406	Marionette	INFO	Stopped listening on port 45839
+1597544875550	Marionette	INFO	Stopped listening on port 46723
+1597544876670	Marionette	INFO	Stopped listening on port 38721
+1597544878337	Marionette	INFO	Stopped listening on port 45319
+1597544880645	Marionette	INFO	Stopped listening on port 34749
+1597544881386	Marionette	INFO	Stopped listening on port 45169
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1597544882676	Marionette	INFO	Stopped listening on port 35345
+1597544886326	Marionette	INFO	Stopped listening on port 43781
+1597544887936	Marionette	INFO	Stopped listening on port 42593
+1597544889227	Marionette	INFO	Stopped listening on port 39679
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:105049): GLib-GIO-WARNING **: 22:36:45.508: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597545409713	Marionette	INFO	Listening on port 34231
+1597545409764	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597545416450	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597545416895	Marionette	INFO	Stopped listening on port 33679
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:105640): GLib-GIO-WARNING **: 22:38:40.093: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597545524262	Marionette	INFO	Listening on port 35305
+1597545524358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597545529572	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597545535917	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1597546383588	Marionette	INFO	Stopped listening on port 35305
+1597546386230	Marionette	INFO	Stopped listening on port 34231
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:108330): GLib-GIO-WARNING **: 23:22:28.616: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597548152574	Marionette	INFO	Listening on port 46687
+1597548152657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597548158178	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597548164554	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:108977): GLib-GIO-WARNING **: 23:27:54.778: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597548478675	Marionette	INFO	Listening on port 46227
+1597548478760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597548491989	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this._containers is null
+Full stack: getContainer@resource://devtools/client/inspector/markup/markup.js:780:5
+showNode/<@resource://devtools/client/inspector/markup/markup.js:1570:32
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+completePromise@resource://gre/modules/Promise-backend.js:741:12
+checkForCompletion@resource://gre/modules/Promise-backend.js:596:16
+resolver@resource://gre/modules/Promise-backend.js:603:47
+
+*************************
+console.error: (new TypeError("this._containers is null", "resource://devtools/client/inspector/markup/markup.js", 780))
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this._containers is null
+Full stack: getContainer@resource://devtools/client/inspector/markup/markup.js:780:5
+_showNodeAsHovered@resource://devtools/client/inspector/markup/markup.js:655:28
+_onToolboxPickerHover/<@resource://devtools/client/inspector/markup/markup.js:442:12
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+completePromise@resource://gre/modules/Promise-backend.js:741:12
+checkForCompletion@resource://gre/modules/Promise-backend.js:596:16
+resolver@resource://gre/modules/Promise-backend.js:603:47
+
+*************************
+1597548612037	Marionette	INFO	Stopped listening on port 46227
+1597548612577	Marionette	INFO	Stopped listening on port 46687
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:30690): GLib-GIO-WARNING **: 10:19:35.543: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597587581724	Marionette	INFO	Listening on port 43595
+1597587581793	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:42060): GLib-GIO-WARNING **: 10:23:45.080: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597587829472	Marionette	INFO	Listening on port 44859
+1597587829559	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:42573): GLib-GIO-WARNING **: 10:26:12.048: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597587977654	Marionette	INFO	Listening on port 46049
+1597587977720	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597588009750	Marionette	INFO	Stopped listening on port 44859
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1597588016433	Marionette	INFO	Stopped listening on port 46049
+1597588021603	Marionette	INFO	Stopped listening on port 43595
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:42913): GLib-GIO-WARNING **: 10:27:20.425: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597588045166	Marionette	INFO	Listening on port 44129
+1597588045221	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1597588507144	Marionette	INFO	Stopped listening on port 44129
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:1747): GLib-GIO-WARNING **: 10:47:53.113: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597589276500	Marionette	INFO	Listening on port 44359
+1597589276603	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:2381): GLib-GIO-WARNING **: 10:53:44.304: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597589627527	Marionette	INFO	Listening on port 34925
+1597589627581	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:5541): GLib-GIO-WARNING **: 11:56:30.089: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597593394234	Marionette	INFO	Listening on port 41091
+1597593394387	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:5789): GLib-GIO-WARNING **: 11:57:08.572: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597593432686	Marionette	INFO	Listening on port 43229
+1597593432727	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:6427): GLib-GIO-WARNING **: 12:00:14.069: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597593618188	Marionette	INFO	Listening on port 36851
+1597593618284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597593638899	Marionette	INFO	Stopped listening on port 34925
+1597593639850	Marionette	INFO	Stopped listening on port 41091
+1597593641084	Marionette	INFO	Stopped listening on port 43229
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:6924): GLib-GIO-WARNING **: 12:03:28.660: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597593812446	Marionette	INFO	Listening on port 36901
+1597593812575	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597593842157	Marionette	INFO	Stopped listening on port 36851
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:7346): GLib-GIO-WARNING **: 12:06:28.765: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597593990222	Marionette	INFO	Stopped listening on port 36901
+1597593993595	Marionette	INFO	Listening on port 38073
+1597593993696	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:7875): GLib-GIO-WARNING **: 12:10:57.129: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597594260322	Marionette	INFO	Listening on port 34859
+1597594260396	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1967: TypeError: currentPanel is undefined
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 350 getMutations
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 350 getMutations
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 350 getMutations
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:8505): GLib-GIO-WARNING **: 12:15:11.662: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597594515374	Marionette	INFO	Listening on port 34113
+1597594515443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597594520930	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+
+(firefox:12517): GLib-GIO-WARNING **: 12:45:56.677: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597596359796	Marionette	INFO	Listening on port 34621
+1597596359862	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1597596365752	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597596409271	Marionette	INFO	Stopped listening on port 38073
+1597596411277	Marionette	INFO	Stopped listening on port 34113
+1597596413217	Marionette	INFO	Stopped listening on port 34621
+JavaScript error: https://cdn.sstatic.net/Js/stub.en.js?v=6582fb91db1b, line 1: ReferenceError: $ is not defined
+JavaScript error: https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python, line 43: TypeError: StackExchange.ready is not a function
+JavaScript error: https://cdn.sstatic.net/Js/stub.en.js?v=6582fb91db1b, line 1: ReferenceError: $ is not defined
+JavaScript error: https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python, line 318: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python, line 3179: TypeError: StackExchange.ifUsing is not a function
+JavaScript error: https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python, line 3190: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python, line 3282: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python, line 3327: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python, line 3453: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python, line 3736: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python, line 3758: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python, line 4000: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python, line 4013: TypeError: StackExchange.ready is not a function
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:13038): GLib-GIO-WARNING **: 12:48:52.089: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597596537486	Marionette	INFO	Listening on port 36195
+1597596537549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597596543415	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597596581952	Marionette	INFO	Stopped listening on port 34859
+1597596582694	Marionette	INFO	Stopped listening on port 36195
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:13334): GLib-GIO-WARNING **: 12:49:48.481: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597596592193	Marionette	INFO	Listening on port 45461
+1597596592285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597596597413	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:13696): GLib-GIO-WARNING **: 12:50:32.806: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597596636705	Marionette	INFO	Listening on port 43123
+1597596636792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597596642095	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597596650756	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:13974): GLib-GIO-WARNING **: 12:51:23.073: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597596687126	Marionette	INFO	Listening on port 41845
+1597596687238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597596703428	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:14929): GLib-GIO-WARNING **: 12:56:24.972: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597596989381	Marionette	INFO	Listening on port 34675
+1597596989428	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1597596996397	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:15291): GLib-GIO-WARNING **: 12:57:16.755: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597597040657	Marionette	INFO	Listening on port 36867
+1597597040705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597597046156	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:16083): GLib-GIO-WARNING **: 12:59:12.828: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597597157661	Marionette	INFO	Listening on port 40353
+1597597157710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597597163259	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597597170760	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+
+(firefox:18213): GLib-GIO-WARNING **: 13:05:57.994: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597597562559	Marionette	INFO	Listening on port 35373
+1597597562666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597597568068	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:18840): GLib-GIO-WARNING **: 13:07:28.160: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597597652428	Marionette	INFO	Listening on port 45451
+1597597652533	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:19367): GLib-GIO-WARNING **: 13:08:26.368: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597597710835	Marionette	INFO	Listening on port 45235
+1597597710941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914, line 6: Script terminated by timeout at:
+Cd@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:23793
+Ld/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25066
+ud/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:22367
+Ld@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25315
+Od/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25441
+ud/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:22367
+ud/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:22412
+
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(firefox:21286): GLib-GIO-WARNING **: 13:13:03.321: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1597597987335	Marionette	INFO	Listening on port 33149
+1597597987378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597597992857	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:25549
+ajax@http://192.168.1.254/common/js/jquery-1.11.1.min.js:4:21302
+GetPPPConns@http://192.168.1.254/:100:19
+@http://192.168.1.254/:134:17
+j@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:27244
+fireWith@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:28057
+ready@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:29891
+J@http://192.168.1.254/common/js/jquery-1.11.1.min.js:2:30257
+1597616229187	Marionette	INFO	Stopped listening on port 35373
+1597616230607	Marionette	INFO	Stopped listening on port 43123
+1597616232315	Marionette	INFO	Stopped listening on port 45461
+1597616233927	Marionette	INFO	Stopped listening on port 41845
+1597616234546	Marionette	INFO	Stopped listening on port 45451
+1597616235851	Marionette	INFO	Stopped listening on port 36867
+1597616237831	Marionette	INFO	Stopped listening on port 33149
+1597616239140	Marionette	INFO	Stopped listening on port 40353
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1597616240844	Marionette	INFO	Stopped listening on port 45235
+1597616247390	Marionette	INFO	Stopped listening on port 34675
