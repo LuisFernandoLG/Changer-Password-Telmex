@@ -1,5 +1,5 @@
-from ChangerPasswordTelmex import ChangerPasswordTelmex
+from wifi import Wifi
 
-modem = ChangerPasswordTelmex()
+wifi = Wifi()
 
-print(modem.ChangeToNewPassword("nomelase.com"))
+print(wifi.changePassword("Nomelase.com1", "5_0"))
