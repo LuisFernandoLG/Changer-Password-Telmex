@@ -18,14 +18,13 @@ class TelmexBot():
             self.driver = webdriver.Firefox()
 
             self.driver.get(self.ip)
-            self.driver.implicitly_wait(20)
+                
 
             print("Pagina obtenida con éxito . . . ")
             return "Ok"
 
         except Exception as e:
-            print("Error al obtener la pagina ")
-            return e
+            raise e
 
     def login(self):
         try:

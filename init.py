@@ -1,5 +1,12 @@
-from wifi import Wifi
+#from wifi import Wifi
+#
+#wifi = Wifi()
+#
+#print(wifi.changePassword("nomelase.com", "5_0", "Luis"))
 
-wifi = Wifi()
+from adressmac import  AdressMac
 
-print(wifi.changePassword("01123581321", "5_0", "Fer"))
+
+adresMac = AdressMac()
+
+print(adresMac.block("f4:f5:24:281:b4:47"))
